@@ -55,7 +55,7 @@ gcc src/compare_sync.c -fopenmp -o compare_sync
 
 The semaphore program is expected to print `Counter=200000`. The comparison program performs 16 measurements: four mechanisms at thread counts 1, 2, 4, and 8. Timing results depend on the system and may vary between runs.
 
-## Results captured from the submitted screenshot
+## Results 
 Measured output from `./compare_sync`:
 
 | Mechanism | Threads | Final count | Correctness | Time (s) |
