@@ -5,7 +5,7 @@ Implement and study synchronization mechanisms in shared-memory parallel program
 
 ## Environment
 - VMware Workstation
-- Ubuntu 24.04 guest OS (as shown in the terminal screenshot)
+- Ubuntu 24.04 guest OS 
 - GCC 13.3.0
 - OpenMP
 - POSIX threads and semaphore library
