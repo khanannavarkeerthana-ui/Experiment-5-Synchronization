@@ -17,8 +17,8 @@ Implement and study synchronization mechanisms in shared-memory parallel program
 - `src/barrier.c` — OpenMP barrier
 - `src/semaphore.c` — POSIX semaphore with two threads
 - `src/compare_sync.c` — compares None, Critical, Atomic, and Lock for 1, 2, 4, and 8 threads
-- `graphs/` — graphs generated from the measured comparison output shown in the submitted screenshot
-- `screenshots/` — submitted terminal screenshots
+- `graphs/` — graphs from the measured comparison output 
+- `screenshots/` — executed terminal screenshots
 
 ## Installation
 ```bash
